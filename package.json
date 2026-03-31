@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Test passed ✅'"
+    "test": "node app.js'"
   },
   "keywords": [],
   "author": "",
