@@ -4,7 +4,7 @@ const app = express();
 app.get('/', (req, res) => {
     res.send(`
         <h1>🚀 DevOps Live App</h1>
-        <p>Welcome students! This app is deployed using DevOps.</p>
+        <p>Welcome students!! This app is deployed using DevOps.</p>
     `);
 });
 
